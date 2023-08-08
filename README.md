@@ -30,10 +30,4 @@
   <a href="https://www.instagram.com/robson_p.d.s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/robson-pereira-da-silva-8b8b39b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  <picture>
-  <img alt="github-snake" src="dist/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="dist/github-contribution-grid-snake-dark.svg?palette=github-dark" />
-</picture>
-
-
-            
+![Snake animation](https://github.com/robson-pds/robson-pds/blob/output/github-contribution-grid-snake-dark.svg)          
