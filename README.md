@@ -31,5 +31,9 @@
  <a href="https://www.linkedin.com/in/robson-pereira-da-silva-8b8b39b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   <picture>
-  <img alt="github-snake" src="dist/github-contribution-grid-snake2.svg" />
+  <img alt="github-snake" src="dist/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="dist/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </picture>
+
+
+            
