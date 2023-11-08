@@ -1,7 +1,7 @@
 ### Olá Eu sou o Robson 👋
 
 - 🔭 Hoje trabalho com back-end, mais especifico com Delphi
-- 🌱 Estudando Typescript
+- 🌱 Estudando Golang
 - 💬 Contate-me no email: robson.pds@hotmail.com
 
 <div align="center">
