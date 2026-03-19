@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com back-end, mais especifico com Delphi
 - 🌱 Estudando Golang
-- 💬 Contate-me no email: robson.pds@hotmail.com
+- 💬 Contate-me no email: robson@robsonpds.com.br
 
 <div align="center">
   <a href="https://github.com/robson-pds">
