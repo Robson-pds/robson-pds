@@ -28,6 +28,8 @@ Sou desenvolvedor e consultor de tecnologia com **mais de 8 anos de experiência
 
 ### Desktop
 ![Delphi](https://img.shields.io/badge/-Delphi-E62431?style=flat-square&logo=delphi&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ### Mobile
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
@@ -45,7 +47,6 @@ Sou desenvolvedor e consultor de tecnologia com **mais de 8 anos de experiência
 ### Infraestrutura & DevOps
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 
 ### Integrações
